@@ -1,11 +1,11 @@
-# GBT-7714-2015-author-date-journal
+# author-date-journal citation format basing on GBT-7714-2015
 Citation format file for Zotero
 
 For example:
 
 ## for the first cite:
 
-(Huang等, 2025，Plant Commun.)
+(Huang等, 2025，*Plant Commun.*)
 
 ## In Bibliography:
 
